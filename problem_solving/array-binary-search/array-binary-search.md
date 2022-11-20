@@ -6,7 +6,7 @@ figure out function and test it .
 write function that take two parameter one is sorted array and the other is value , then return the element of te index that will be equal the key if value exist else return -1
 
 ## Approach & Efficiency
-time complexity O (log n) 
+time complexity "wait until solve ^-^" 
 
 ## Solution
 | **_solution link_** | [Here](arrayBinarySearch.js)
